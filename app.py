@@ -75,7 +75,7 @@ def main():
     """Main Streamlit application."""
     
     # Header
-    st.title("📊 Product Adoption & Expansion Intelligence Copilot")
+    st.title("📊 Product Adoption & Expansion Intelligence System")
     st.markdown("**Internal Enterprise Tool** — Analyze customer adoption, expansion opportunities, and churn risk")
     st.divider()
     

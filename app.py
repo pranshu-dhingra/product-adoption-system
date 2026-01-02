@@ -29,7 +29,7 @@ from src.data.models import CustomerIntelligence
 
 # Page configuration
 st.set_page_config(
-    page_title="Product Adoption Copilot",
+    page_title="Product Adoption System",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"

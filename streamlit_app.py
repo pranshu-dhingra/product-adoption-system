@@ -31,7 +31,7 @@ from run_demo import (
 
 # Page configuration
 st.set_page_config(
-    page_title="Product Adoption Copilot",
+    page_title="Product Adoption System",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
